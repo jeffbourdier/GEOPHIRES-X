@@ -43,7 +43,7 @@ Simulation Metadata
       Number of Injection Wells:                              2
       Well depth (or total length, if not vertical):          4.0 kilometer
       Water loss rate:                                        0.0
-      Pump efficiency:                                       80.0
+      Pump efficiency:                                       80.0 %
       Injection temperature:                                 50.0 degC
       User-provided production well temperature drop
       Constant production well temperature drop:              3.0 degC
